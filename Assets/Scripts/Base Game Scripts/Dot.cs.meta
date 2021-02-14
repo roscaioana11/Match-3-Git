@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f6175bc0d2da64d42b8b28502a200b13
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - otherDot: {instanceID: 0}
+  - adjacentMarker: {instanceID: 0}
+  - rowArrow: {instanceID: 0}
+  - columnArrow: {instanceID: 0}
+  - colorBomb: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
